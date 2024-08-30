@@ -11,8 +11,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="https://www.instagram.com/barbarafernandespaes" alt="Instagram"/></a>
 </p>
 
-<!--
-**barbara-paes/barbara-paes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My link to Medium : https://medium.com/@barbarafpaes1/
 
 
 
