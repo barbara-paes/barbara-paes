@@ -1,7 +1,6 @@
 ### Hi there 👋
- I am a future graduate student in Control and Automation Engineering at UFSC and this is my github.
- It contains data science and data engenieer projects completed by me for academic, self learning purposes. Presented in the form of Jupyter notebooks, and Python files.
-
+I am a future mathematician at UFSC and a passionate enthusiast of statistics and data.
+This is my GitHub, which contains data science and data engineering projects developed by me for academic and self-learning purposes, presented in the form of Jupyter notebooks and Python files.
 My link to Medium : https://medium.com/@barbarafpaes1/
 
 
